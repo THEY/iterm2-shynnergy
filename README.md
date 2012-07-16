@@ -7,3 +7,4 @@ Started with this collection: [https://github.com/baskerville/iTerm-2-Color-Them
 
 And modified it from there.
 
+![image](https://github.com/THEY/iterm2-shynnergy/blob/master/screenshot.png?raw=true)
